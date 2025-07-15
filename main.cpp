@@ -13,7 +13,7 @@ int main() {
     }
     
     cout << p0;
-    cout << " It will need " <<a<< " entire years";
+    cout << " It will need " <<a<< " entire years" << endl;
     
     cout << "Hello GitHub!!!" << endl;
 
