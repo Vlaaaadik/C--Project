@@ -32,7 +32,8 @@ int main() {
 
         cout << "Успешная авторизация! " << endl;
     }
-
+    
+    cout << "Hello GitHub!!!" << endl;
 
     return 0;
 }
